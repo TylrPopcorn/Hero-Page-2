@@ -2,7 +2,7 @@
 
 `Creating simple hero pages with BootStrap HTML`
 
-This project showcases a beautifully designed and fully responsive landing page, combining creativity and functionality. The layout was first conceptualized in **Figma** and then meticulously implemented using **Bootstrap5** for a clean, maintainable, and mobile-friendly HTML.
+This project showcases a beautifully designed and fully responsive landing page, combining creativity and functionality. The layout was first conceptualized in **Figma** and then meticulously implemented using **Bootstrap5** for a clean, maintainable, and mobile-friendly layout design.
 
 This landing page includes:
 
@@ -14,6 +14,10 @@ Live: https://hero-page-2.onrender.com
 
 ![Desktop - 1 (2)](https://github.com/user-attachments/assets/5cdf8c31-915d-4ac0-99cb-0b07b8dc154a)
 <sup>Credit goes to the original/external sources used.</sup>
+
+Extra Resources:
+- [BootStrap](https://getbootstrap.com/)
+- [Figma](https://www.figma.com/)
 
 # Related Projects
 
